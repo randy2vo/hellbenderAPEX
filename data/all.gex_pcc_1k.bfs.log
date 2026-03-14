@@ -1,0 +1,32 @@
+
+Command line arguments: 
+	/cluster/pixstor/class-apex/code/bfs data/all.gex_pcc_1k.gml data/all.gex_pcc_1k.bfs 
+
+
+Node numbers range from 1 to 8560
+Reading in graph from 'data/all.gex_pcc_1k.gml'...
+
+
+Finding components...
+
+
+8370 vertices with degree zero
+6 components with only 2 vertices
+1 components with 3 or more vertices
+
+Sizes of non-singleton components:
+	max = 178, min = 2, median = 2.0, average = 27.142857
+	95 percent confidence interval: 77.428574, -23.142857
+
+Densities of non-singleton components:
+	max = 1.000000, min = 0.063163, median = 1.000000, average = 0.866166
+	95 percent confidence interval: 1.133834, 0.598498
+
+	8370 components with 1 vertices
+	6 components with 2 vertices
+	1 components with 178 vertices
+178 vertices in largest component overall
+1 components are not cliques
+1001 edges explored
+0 duplicate edges not counted in edge count
+0.010128 seconds

@@ -1,0 +1,2 @@
+NumSingle NumDouble Num3orMore NumNotCliques MaxSize AvgSize
+8370 6 1 1 178 27.14
