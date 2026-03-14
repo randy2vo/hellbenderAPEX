@@ -1,0 +1,9 @@
+
+Command line arguments: 
+	/cluster/pixstor/class-apex/code/keepHi data/all.gex_duo_0.7.gml 17120 38228 1000 data/all.gex_duo_1k.gml 
+
+Edges with weight of 0.789638 or higher will be kept.
+1003 edges written to 'data/all.gex_duo_1k.gml' (3 retained due to ties).
+
+0.090551 seconds.
+
